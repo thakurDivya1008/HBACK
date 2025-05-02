@@ -1,0 +1,11 @@
+{
+  "name": "hback",
+  "version": "1.0.0",
+  "description": "A Bacckend Project created under the guidance of CHAI AUR CODE youtube channel. by-Hitesh Chaudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divya Kumari",
+  "license": "ISC"
+}
